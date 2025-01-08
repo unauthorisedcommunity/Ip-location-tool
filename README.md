@@ -1,29 +1,16 @@
-# this tool can give you the location of an IP address .You should know that the address we will find using IP address isn't exact location .. 
+## this tool can give you the location of an IP address .You should know that the address we will find using IP address isn't exact location .. 
 
-use these command. This tool is 100% safe. 
+#commands
 
-'''bash
-
-'$ apt update && apt upgrade'
-
-'$ pkg update && pkg upgrade -y'
-
-'$ pkg install python3'
-
-'$ python3 -m pip install requests'
-
-'$ python3 -m pip install pyfiglet'
-
-'$ pkg install git'
-
-'$ git clone https://github.com/unauthorisedcommunity/Ip-location-tool.git'
-
-'$ cd Ip-location-tool'
-
-'$ ls'
-
-'$ chmod +x iploc-tool.py'
-
-'$ ls'
-
-'$ python iploc-tool.py'
+- apt update && apt upgrade  
+- pkg update && pkg upgrade -y  
+- pkg install python3  
+- python3 -m pip install requests  
+- python3 -m pip install pyfiglet  
+- pkg install git  
+- git clone https://github.com/unauthorisedcommunity/Ip-location-tool.git  
+- cd Ip-location-tool  
+- ls  
+- chmod +x iploc-tool.py  
+- ls  
+- python iploc-tool.py
