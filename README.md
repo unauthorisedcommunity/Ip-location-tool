@@ -2,7 +2,7 @@
 
 # Commands
 
-' apt update && apt upgrade '
+`apt update && apt upgrade`
 - pkg update && pkg upgrade -y 
 - pkg install python3  
 - python3 -m pip install requests  
