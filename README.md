@@ -14,3 +14,5 @@
 - chmod +x iploc-tool.py  
 - ls  
 - python iploc-tool.py
+
+## This tool is 100% safe.
