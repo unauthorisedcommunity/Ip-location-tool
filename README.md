@@ -3,26 +3,27 @@
 use these command. This tool is 100% safe. 
 
 '''bash
-$ apt update && apt upgrade
 
-$ pkg update && pkg upgrade -y
+'$ apt update && apt upgrade'
 
-$ pkg install python3
+'$ pkg update && pkg upgrade -y'
 
-$ python3 -m pip install requests
+'$ pkg install python3'
 
-$ python3 -m pip install pyfiglet 
+'$ python3 -m pip install requests'
 
-$ pkg install git
+'$ python3 -m pip install pyfiglet'
 
-$ git clone https://github.com/unauthorisedcommunity/Ip-location-tool.git
+'$ pkg install git'
 
-$ cd Ip-location-tool
+'$ git clone https://github.com/unauthorisedcommunity/Ip-location-tool.git'
 
-$ ls
+'$ cd Ip-location-tool'
 
-$ chmod +x iploc-tool.py
+'$ ls'
 
-$ ls
+'$ chmod +x iploc-tool.py'
 
-$ python iploc-tool.py
+'$ ls'
+
+'$ python iploc-tool.py'
