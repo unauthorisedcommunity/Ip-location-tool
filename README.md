@@ -2,8 +2,8 @@
 
 # Commands
 
-- 'apt update && apt upgrade '  
-- pkg update && pkg upgrade -y  
+- apt update && apt upgrade
+- pkg update && pkg upgrade -y 
 - pkg install python3  
 - python3 -m pip install requests  
 - python3 -m pip install pyfiglet  
